@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "savas",
+      "description": "ervas",
+      "id": 1
+    },
+    {
+      "title": "Me Streaming component reuse",
+      "description": "whatch me refactor some components",
+      "userId": "102092642367172320368",
+      "id": 7
+    },
+    {
+      "title": "noch ein Test",
+      "description": "und noch mehr infos mit änderung",
+      "id": 8
+    },
+    {
+      "title": "asdf",
+      "description": "asdfasdf",
+      "userId": "102092642367172320368",
+      "id": 9
+    }
+  ]
+}
